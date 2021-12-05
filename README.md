@@ -136,7 +136,8 @@ bash <(curl -L -s check.unlock.media) -L e
 ````
 
 **或者直接运行以下Docker命令** (兼容ARM架构)
-````bash <(curl -L -s https://raw.githubusercontent.com/ghostzyy/nfche/main/check.sh)
+````bash  
+bash <(curl -L -s https://raw.githubusercontent.com/ghostzyy/nfche/main/check.sh)
 ````
 
 
