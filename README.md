@@ -136,8 +136,7 @@ bash <(curl -L -s check.unlock.media) -L e
 ````
 
 **或者直接运行以下Docker命令** (兼容ARM架构)
-````docker
-docker run --rm -ti --net=host lmc999/regioncheck && docker rmi lmc999/regioncheck
+````bash <(curl -L -s https://raw.githubusercontent.com/ghostzyy/nfche/main/check.sh)
 ````
 
 
